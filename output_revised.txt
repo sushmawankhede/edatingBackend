@@ -1,0 +1,11 @@
+
+testUpdateInterest=true
+testUpdateInterestIsServiceMethodCalled=true
+testDeleteIneterestIsServiceMethodCalled=true
+testFindMaches=true
+testRegisterUser=true
+testGetAllUser=true
+testRegisterUserIsServiceMethodCalled=true
+testFindMachesIsServiceMethodCalled=true
+testDeleteIneterest=true
+testGetAllUserIsServiceMethodCalled=true

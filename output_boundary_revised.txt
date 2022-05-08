@@ -1,0 +1,15 @@
+
+testAgeMax45=true
+testAgeMin18=true
+testPasswordMax30=true
+testUsernameNotNull=true
+testPhoneNumberNotNull=true
+testMailPattern=true
+testUsernameMax30=true
+testAgeNotNull=true
+testPhoneNumberMax10=true
+testPhoneNumberMin10=true
+testPasswordNotNull=true
+testMailNotNull=true
+testPasswordMin5=true
+testUsernameMin5=true

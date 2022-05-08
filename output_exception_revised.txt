@@ -1,0 +1,5 @@
+
+testUpdateInterestInvalidDataException=true
+testWhileMachingUserNotFoundException=true
+testRegisterUserInvalidDataException=true
+testInterestNotFoundWhileDeletingException=true
